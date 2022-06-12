@@ -4,4 +4,4 @@
 - Trypanosoma melophagium
 - Leishmania sp. Namibia
 - Trypanosoma vivax
-- Trypanosoma cruzi strain CL Brener
+- Trypanosoma theileri
