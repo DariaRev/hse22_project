@@ -1,7 +1,7 @@
 # hse22_project
 Выбранные геномы:
-- Crithidia fasciculata
-- Crithidia acanthocephali
-- Crithidia bombi
-- Crithidia expoeki
-- Crithidia mellificae
+- Porcisia hertigi
+- Trypanosoma melophagium
+- Leishmania sp. Namibia
+- Trypanosoma vivax
+- Trypanosoma cruzi strain CL Brener
