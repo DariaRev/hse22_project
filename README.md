@@ -1,4 +1,6 @@
 # hse22_project
+[Colab](https://colab.research.google.com/drive/1SPWmm93CB1xDCDNlrCyG0X02PYsMQ7Sr?usp=sharing)
+
 Выбранные геномы:
 - Porcisia hertigi (GC = 56,0229%)
 - Trypanosoma melophagium (GC = 41,2%)
